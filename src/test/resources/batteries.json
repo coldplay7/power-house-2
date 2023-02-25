@@ -1,0 +1,34 @@
+[
+  {
+    "name": "battery c",
+    "watt_capacity": {
+      "value": 1,
+      "unit": "AH"
+    },
+    "post_code": 1111
+  },
+  {
+    "name": "battery b",
+    "watt_capacity": {
+      "value": 100,
+      "unit": "AH"
+    },
+    "post_code": 2222
+  },
+  {
+    "name": "battery a",
+    "watt_capacity": {
+      "value": 100,
+      "unit": "AH"
+    },
+    "post_code": 3222
+  },
+  {
+    "name": "battery d",
+    "watt_capacity": {
+      "value": 100,
+      "unit": "AH"
+    },
+    "post_code": 1232
+  }
+]
